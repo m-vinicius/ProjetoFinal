@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Multa
+comment1.params=id_multa\ id_emprestimo\ descricao\ valor\ pagamento
+comment1.target=Multa(int,\ int,\ java.lang.String,\ float,\ java.lang.String)
+comment10.params=valor
+comment10.target=void\ setValor(float)
+comment2.params=
+comment2.target=Multa()
+comment3.params=
+comment3.target=int\ getId_multa()
+comment4.params=id_multa
+comment4.target=void\ setId_multa(int)
+comment5.params=
+comment5.target=int\ getId_cliente()
+comment6.params=id_cliente
+comment6.target=void\ setId_cliente(int)
+comment7.params=
+comment7.target=java.lang.String\ getDescricao()
+comment8.params=descricao
+comment8.target=void\ setDescricao(java.lang.String)
+comment9.params=
+comment9.target=float\ getValor()
+numComments=11
